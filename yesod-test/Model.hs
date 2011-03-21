@@ -20,10 +20,6 @@ Email
     user UserId Maybe Update
     verkey String Maybe Update
     UniqueEmail email
-Site
-    url String
-    created UTCTime default=now()
-    UniqueSite url
 Quote
     datetime UTCTime Desc
     value Double
@@ -34,6 +30,4 @@ Quote
     source String
     stock_market String
     currency_id Int
-    performance Bool
-    incorrect Bool
 |]

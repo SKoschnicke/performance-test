@@ -23,7 +23,8 @@ import qualified Text.Hamlet as H
 import qualified Text.Cassius as H
 import qualified Text.Julius as H
 import Language.Haskell.TH.Syntax
-import Database.Persist.Postgresql
+--import Database.Persist.Postgresql
+import Database.Persist.Sqlite
 import Yesod (MonadPeelIO, addWidget, addCassius, addJulius)
 import Data.Monoid (mempty)
 import System.Directory (doesFileExist)
@@ -67,9 +68,11 @@ staticroot = approot ++ "/static"
 -- specific.
 connStr :: String
 #ifdef PRODUCTION
-connStr = "user=svk password=svk host=localhost port=5432 dbname=haskell"
+-- connStr = "user=svk password=svk host=localhost port=5432 dbname=haskell"
+connStr = "../sqlite3.db"
 #else
-connStr = "user=svk password=svk host=localhost port=5432 dbname=haskell"
+-- connStr = "user=svk password=svk host=localhost port=5432 dbname=haskell"
+connStr = "../sqlite3.db"
 #endif
 
 -- | Your application will keep a connection pool and take connections from
@@ -140,7 +143,7 @@ widgetFile x = do
 -- by the scaffolded application, and therefore you will rarely need to use
 -- them yourself.
 withConnectionPool :: MonadPeelIO m => (ConnectionPool -> m a) -> m a
-withConnectionPool = withPostgresqlPool connStr connectionCount
+withConnectionPool = withSqlitePool connStr connectionCount
 
 runConnectionPool :: MonadPeelIO m => SqlPersist m a -> ConnectionPool -> m a
 runConnectionPool = runSqlPool

@@ -37,6 +37,41 @@ Failed transactions:               0
 Longest transaction:            8.35
 Shortest transaction:           7.02
 
+With Sqlite
+-----------
+
+Rails:
+
+ransactions:                      10 hits
+Availability:                 100.00 %
+Elapsed time:                 118.08 secs
+Data transferred:               0.22 MB
+Response time:                 11.81 secs
+Transaction rate:               0.08 trans/sec
+Throughput:                     0.00 MB/sec
+Concurrency:                    1.00
+Successful transactions:          10
+Failed transactions:               0
+Longest transaction:           11.96
+Shortest transaction:          11.70
+
+
+Yesod:
+
+ransactions:                      10 hits
+Availability:                 100.00 %
+Elapsed time:                 113.57 secs
+Data transferred:               0.03 MB
+Response time:                 11.36 secs
+Transaction rate:               0.09 trans/sec
+Throughput:                     0.00 MB/sec
+Concurrency:                    1.00
+Successful transactions:          10
+Failed transactions:               0
+Longest transaction:           11.41
+Shortest transaction:          11.29
+
+
 To reproduce results
 --------------------
 
