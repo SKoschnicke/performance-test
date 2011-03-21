@@ -1,0 +1,73 @@
+name:              yesod-test
+version:           0.0.0
+license:           BSD3
+license-file:      LICENSE
+author:            Sven Koschnicke
+maintainer:        Sven Koschnicke
+synopsis:          The greatest Yesod web application ever.
+description:       I'm sure you can say something clever here if you try.
+category:          Web
+stability:         Experimental
+cabal-version:     >= 1.6
+build-type:        Simple
+homepage:          http://yesod-test.yesodweb.com/
+
+Flag production
+    Description:   Build the production executable.
+    Default:       False
+
+executable         yesod-test-test
+    if flag(production)
+        Buildable: False
+    main-is:       test.hs
+    build-depends: base         >= 4       && < 5
+                 , yesod        >= 0.7     && < 0.8
+                 , yesod-auth
+                 , yesod-static
+                 , mime-mail
+                 , wai-extra
+                 , directory
+                 , bytestring
+                 , text
+                 , persistent
+                 , persistent-postgresql
+                 , template-haskell
+                 , hamlet
+                 , web-routes
+                 , hjsmin
+                 , transformers
+                 , warp
+    ghc-options:   -Wall -threaded
+
+executable         yesod-test-production
+    if flag(production)
+        Buildable: True
+    else
+        Buildable: False
+    cpp-options:   -DPRODUCTION
+    main-is:       production.hs
+    build-depends: base         >= 4       && < 5
+                 , yesod        >= 0.7     && < 0.8
+                 , yesod-auth
+                 , yesod-static
+                 , mime-mail
+                 , wai-extra
+                 , directory
+                 , bytestring
+                 , text
+                 , persistent
+                 , persistent-postgresql
+                 , template-haskell
+                 , hamlet
+                 , web-routes
+                 , hjsmin
+                 , transformers
+                 , warp
+                 , time
+    ghc-options:   -Wall -threaded
+
+executable         yesod-test-devel
+    if flag(production)
+        Buildable: False
+    main-is:       devel-server.hs
+    ghc-options:   -Wall -O2 -threaded

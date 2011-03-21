@@ -1,0 +1,4 @@
+<h1>Quotes
+<ul>
+$forall quote <- quotes
+  <li>#{quoteValue (snd quote)}

@@ -1,0 +1,72 @@
+
+Comparing performance of a simple model-load and show between yesod 0.7 and rails 2.3
+
+Results
+-------
+
+Rails (in development mode, running with mongrel webserver) is 14 times faster than yesod (compiled in production mode).
+
+Rails:
+
+ransactions:                     250 hits
+Availability:                 100.00 %
+Elapsed time:                  26.82 secs
+Data transferred:               5.53 MB
+Response time:                  0.53 secs
+Transaction rate:               9.32 trans/sec
+Throughput:                     0.21 MB/sec
+Concurrency:                    4.96
+Successful transactions:         250
+Failed transactions:               0
+Longest transaction:            0.59
+Shortest transaction:           0.17
+
+
+Yesod:
+
+ransactions:                     250 hits
+Availability:                 100.00 %
+Elapsed time:                 377.51 secs
+Data transferred:               0.79 MB
+Response time:                  7.55 secs
+Transaction rate:               0.66 trans/sec
+Throughput:                     0.00 MB/sec
+Concurrency:                    5.00
+Successful transactions:         250
+Failed transactions:               0
+Longest transaction:            8.35
+Shortest transaction:           7.02
+
+To reproduce results
+--------------------
+
+You will need a PostgreSQL Server, Rails and Yesod installed.
+
+1. Create a Database called "haskell"
+2. Import SQL dump
+
+   psql haskell < data.sql
+
+3. Configure the database connection by editing rails-test/config/database.yml
+
+4. In the rails-test directory start the server
+
+   ./script/server
+
+5. Access http://localhost:3000 and measure the time it takes to get 1000 quotes and display the values
+
+6. Configure the database connection by editing yesod-test/Settings.hs (make sure to set the production settings)
+
+7. In the yesod-test directory compile the app in production mode
+
+   cabal install -f "production"
+
+8. Start the app ./dist/build/yesod-test-production/yesod-test-production
+
+9. Access http://localhost:3000/quotes and measure the time it takes to get 1000 quotes and display the values
+
+
+Testing with siege:
+
+siege -b -c 5 -r 50 localhost:3000
+
