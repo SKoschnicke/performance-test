@@ -1,0 +1,44 @@
+name:              persistent-test
+version:           0.0.0
+license:           BSD3
+license-file:      LICENSE
+author:            Sven Koschnicke
+maintainer:        Sven Koschnicke
+synopsis:          Performance testing
+description:       I'm sure you can say something clever here if you try.
+category:          Web
+stability:         Experimental
+cabal-version:     >= 1.6
+build-type:        Simple
+homepage:          http://www.gfxpro.com
+
+Flag hdbc-only
+    Description:   Build the hdbc-only version
+    Default:       False
+
+executable         persistent-test.bin
+    if flag(hdbc-only)
+        Buildable: False
+    main-is:       persist-test.hs
+    build-depends: base         >= 4       && < 5
+                 , directory
+                 , bytestring
+                 , text
+                 , persistent
+                 , persistent-postgresql
+                 , template-haskell
+                 , transformers
+                 , time
+    ghc-options:   -Wall -threaded
+
+executable         hdbc-test.bin
+    if flag(hdbc-only)
+        Buildable: True
+    else
+        Buildable: False
+    main-is:       hdbc-test.hs
+    build-depends: base         >= 4       && < 5
+                 , HDBC
+                 , HDBC-postgresql
+                 , time
+    ghc-options:   -Wall -threaded
