@@ -10,7 +10,7 @@ import Data.Time
 -- You can define all of your database entities here. You can find more
 -- information on persistent and how to declare entities at:
 -- http://docs.yesodweb.com/book/persistent/
-share2 mkPersist (mkMigrate "migrateAll") [$persist|
+share2 mkPersist (mkMigrate "migrateAll") [persist|
 User
     ident String
     password String Maybe Update

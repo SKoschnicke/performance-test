@@ -68,7 +68,7 @@ type Widget = GWidget Test Test
 -- for our application to be in scope. However, the handler functions
 -- usually require access to the TestRoute datatype. Therefore, we
 -- split these actions into two functions and place them in separate files.
-mkYesodData "Test" [$parseRoutes|
+mkYesodData "Test" [parseRoutes|
 /static StaticR Static getStatic
 /auth   AuthR   Auth   getAuth
 
@@ -184,7 +184,7 @@ instance YesodAuthEmail Test where
             { partType = "text/html; charset=utf-8"
             , partEncoding = None
             , partFilename = Nothing
-            , partContent = renderHtml [$hamlet|
+            , partContent = renderHtml [hamlet|
 <p>Please confirm your email address by clicking on the link below.
 <p>
     <a href=#{verurl} #{verurl}
