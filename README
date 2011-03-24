@@ -22,7 +22,7 @@ Longest transaction:            0.59
 Shortest transaction:           0.17
 
 
-Yesod, old (14 times slower than rails):
+Yesod, old (hamlet <0.7.3, 14 times slower than rails):
 
 ransactions:                     250 hits
 Availability:                 100.00 %
@@ -38,7 +38,7 @@ Longest transaction:            8.35
 Shortest transaction:           7.02
 
 
-Yesod, updated Version:
+Yesod, updated Version (hamlet 0.7.3):
 
 ransactions:                     250 hits
 Availability:                 100.00 %
