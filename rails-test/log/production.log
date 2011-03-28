@@ -1,0 +1,1521 @@
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:48:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 139ms (View: 72, DB: 12) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-03-28 14:48:28) [GET]
+  Parameters: {"mode"=>"newer"}
+
+ActionController::RoutingError (No route matches "/events" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:48:43) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:05) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:05) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:05) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 128ms (View: 17, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 132ms (View: 16, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:06) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 135ms (View: 70, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:07) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:08) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 144ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:09) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:10) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 74, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 6, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:11) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 137ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 21, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:12) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:13) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 142ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:14) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 142ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 145ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:15) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 76, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 21, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:16) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 147ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 142ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:17) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 144ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:18) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 77, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 74ms (View: 5, DB: 12) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 142ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:19) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 75, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:20) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 142ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:21) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 139ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 145ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:22) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 6, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 141ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:23) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 144ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 78, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:24) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 137ms (View: 71, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 142ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:25) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 140ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:26) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 138ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 72ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 143ms (View: 78, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 73ms (View: 6, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 71ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:27) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 70ms (View: 5, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing QuotesController#index (for 127.0.0.1 at 2011-03-28 14:49:28) [GET]
+Rendering template within layouts/application
+Rendering quotes/index
+Completed in 144ms (View: 6, DB: 10) | 200 OK [http://localhost/]

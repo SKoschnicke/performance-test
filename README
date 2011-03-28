@@ -4,9 +4,9 @@ Comparing performance of a simple model-load and show between yesod 0.7 and rail
 Results
 -------
 
-Rails (in development mode, running with mongrel webserver) is 79 times slower than yesod (compiled in production mode).
+Rails (in production mode, running with mongrel webserver, ruby 1.8.7) is six times slower than yesod (compiled in production mode).
 
-Rails:
+Rails, development mode:
 
 ransactions:                     250 hits
 Availability:                 100.00 %
@@ -20,6 +20,23 @@ Successful transactions:         250
 Failed transactions:               0
 Longest transaction:            0.59
 Shortest transaction:           0.17
+
+
+Rails, production mode
+
+ransactions:                     250 hits
+Availability:                 100.00 %
+Elapsed time:                  22.37 secs
+Data transferred:               5.53 MB
+Response time:                  0.44 secs
+Transaction rate:              11.18 trans/sec
+Throughput:                     0.25 MB/sec
+Concurrency:                    4.97
+Successful transactions:         250
+Failed transactions:               0
+Longest transaction:            0.52
+Shortest transaction:           0.15
+
 
 
 Yesod, old (hamlet <0.7.3, 14 times slower than rails):
