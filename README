@@ -4,7 +4,7 @@ Comparing performance of a simple model-load and show between yesod 0.7 and rail
 Results
 -------
 
-Rails (in development mode, running with mongrel webserver) is three times faster than yesod (compiled in production mode).
+Rails (in development mode, running with mongrel webserver) is 79 times slower than yesod (compiled in production mode).
 
 Rails:
 
@@ -52,6 +52,22 @@ Successful transactions:         250
 Failed transactions:               0
 Longest transaction:            1.74
 Shortest transaction:           1.36
+
+
+Yesod, updated again (persistent-postgresql 0.4.0.1)
+
+ransactions:                     250 hits
+Availability:                 100.00 %
+Elapsed time:                   3.70 secs
+Data transferred:               0.37 MB
+Response time:                  0.07 secs
+Transaction rate:              67.57 trans/sec
+Throughput:                     0.10 MB/sec
+Concurrency:                    4.78
+Successful transactions:         250
+Failed transactions:               0
+Longest transaction:            0.14
+Shortest transaction:           0.05
 
 
 To reproduce results
